@@ -1,6 +1,6 @@
 # zar_atma
 
-A new Flutter project.
+Ekrandaki butona basarak zar atıyor.
 
 ## Getting Started
 
